@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Atia</h1>
-
-<h1 align="center">💫 About Me:</h1>
-🔭 Dedicated to building interactive, efficient, and scalable web applications. Skilled in JavaScript, React, and modern frontend tools. Focused on delivering high-quality user experiences and constantly learning to stay ahead in web development trends. Let’s create impactful digital solutions!
+<p align="center">Dedicated to building interactive, efficient, and scalable web applications. Skilled in JavaScript, React, and modern frontend tools. Focused on delivering high-quality user experiences and constantly learning to stay ahead in web development trends. Let’s create impactful digital solutions!</p>
 
 
 ## 🌐 Socials:
