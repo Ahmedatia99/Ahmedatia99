@@ -15,26 +15,11 @@
 ---
 
 ## 🐍 Snake eating my contributions
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahmedatia99&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Ahmedatia99&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedatia99&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=ahmedatia99&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
