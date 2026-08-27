@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Ahmed Atia — Frontend Engineer, interactive web creator and player one" />
+  <img src="./assets/download.svg" width="100%" alt="Ahmed Atia — Frontend Engineer, interactive web creator and player one" />
 </div>
 
 <br />
@@ -40,7 +40,7 @@ I engineer production web products that balance **clean architecture, sharp visu
   <tr>
     <td width="50%" valign="top">
       <a href="https://itashteeb.com/en">
-        <img src="./assets/itashteeb-project.svg" width="100%" alt="Itashteeb production platform" />
+        <img src="./assets/download(1).svg" width="100%" alt="Itashteeb production platform" />
       </a>
       <br /><br />
       <strong>Itashteeb Platform &amp; Dashboard</strong>
@@ -50,7 +50,7 @@ I engineer production web products that balance **clean architecture, sharp visu
     </td>
     <td width="50%" valign="top">
       <a href="https://ahmed-atia-nine.vercel.app/">
-        <img src="./assets/creative-lab.svg" width="100%" alt="Creative lab for 3D, game-inspired and interactive web experiences" />
+        <img src="./assets/download(2).svg" width="100%" alt="Creative lab for 3D, game-inspired and interactive web experiences" />
       </a>
       <br /><br />
       <strong>Creative Web Lab</strong>
