@@ -1,0 +1,39 @@
+<svg width="580" height="270" viewBox="0 0 580 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="580" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1224"/><stop offset="1" stop-color="#17102B"/></linearGradient>
+    <radialGradient id="planet" cx="0" cy="0" r="1" gradientTransform="translate(125 127) rotate(42) scale(91)"><stop stop-color="#E0F2FE"/><stop offset="0.22" stop-color="#22D3EE"/><stop offset="0.56" stop-color="#2563EB"/><stop offset="1" stop-color="#581C87"/></radialGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="580" height="270" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="580" height="270" fill="url(#bg)"/>
+    <circle cx="72" cy="32" r="1.6" fill="#E0F2FE"/><circle cx="243" cy="47" r="1" fill="#E0F2FE"/><circle cx="527" cy="221" r="1.4" fill="#E0F2FE"/>
+    <circle cx="194" cy="224" r="1.2" fill="#E0F2FE"/><circle cx="551" cy="52" r="1" fill="#E0F2FE"/>
+    <circle cx="125" cy="127" r="74" fill="url(#planet)"/>
+    <ellipse cx="125" cy="127" rx="111" ry="29" transform="rotate(-16 125 127)" stroke="#67E8F9" stroke-opacity="0.7" stroke-width="3"/>
+    <ellipse cx="125" cy="127" rx="99" ry="21" transform="rotate(-16 125 127)" stroke="#A78BFA" stroke-opacity="0.33"/>
+    <path d="M76 112C99 84 137 70 169 78C151 101 128 123 91 145C80 136 75 124 76 112Z" fill="#C084FC" fill-opacity="0.44"/>
+    <circle cx="102" cy="98" r="7" fill="#F8FAFC" filter="url(#glow)"/>
+
+    <g transform="translate(37 192)">
+      <path d="M4 25C7 10 19 2 33 3L76 5C90 6 100 17 101 32L103 57C104 69 90 75 82 65L72 53H36L26 64C18 74 3 68 5 55L4 25Z" fill="#11182C" stroke="#A78BFA" stroke-width="2"/>
+      <path d="M29 20V40M19 30H39" stroke="#67E8F9" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="78" cy="25" r="5" fill="#F97316"/><circle cx="89" cy="36" r="5" fill="#22D3EE"/>
+    </g>
+
+    <g transform="translate(278 38)">
+      <rect width="60" height="7" rx="3.5" fill="url(#violet)"/>
+      <text x="0" y="43" fill="#F8FAFC" font-size="27" font-weight="800" font-family="Inter,Segoe UI,Arial,sans-serif">CREATIVE LAB</text>
+      <text x="0" y="70" fill="#C4B5FD" font-size="13" font-weight="700" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="1">WEB EXPERIENCES // 3D // GAMES</text>
+      <text x="0" y="105" fill="#94A3B8" font-size="15" font-family="Inter,Segoe UI,Arial,sans-serif">Interactive worlds where motion, code,</text>
+      <text x="0" y="128" fill="#94A3B8" font-size="15" font-family="Inter,Segoe UI,Arial,sans-serif">storytelling and playful ideas collide.</text>
+      <g transform="translate(0 151)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="700">
+        <rect width="73" height="26" rx="13" fill="#18172E" stroke="#A78BFA" stroke-opacity="0.5"/><text x="36.5" y="17" text-anchor="middle" fill="#C4B5FD">THREE.JS</text>
+        <rect x="81" width="52" height="26" rx="13" fill="#18172E" stroke="#38BDF8" stroke-opacity="0.5"/><text x="107" y="17" text-anchor="middle" fill="#7DD3FC">GSAP</text>
+        <rect x="141" width="70" height="26" rx="13" fill="#18172E" stroke="#F97316" stroke-opacity="0.5"/><text x="176" y="17" text-anchor="middle" fill="#FDBA74">WEBGL</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="578.5" height="268.5" rx="21.25" stroke="#A78BFA" stroke-opacity="0.22" stroke-width="1.5"/>
+</svg>
