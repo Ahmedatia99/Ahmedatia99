@@ -1,36 +1,155 @@
-<h1 align="center">Hi 👋, I'm Ahmed Atia</h1>
-<p align="center">Dedicated to building interactive, efficient, and scalable web applications. Skilled in JavaScript, React, and modern frontend tools. Focused on delivering high-quality user experiences and constantly learning to stay ahead in web development trends. Let’s create impactful digital solutions!</p>
-
-
-# 💫 About Me:
-🔭 I'm currently working Freelance projects<br>🌱 I'm currently learning Deep Techniques <br>💬 Ask me about any thing in frontend<br>⚡ Fun fact i am from Egypt
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/atia99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedatiaa74) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsahmedatia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedatia99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmedatiaa99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atyaa629@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
----
-
-## 🐍 Snake eating my contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmedatia99/Ahmedatia99/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-
-### ✍️ Random Dev Quote
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="./assets/profile-hero.svg" width="100%" alt="Ahmed Atia — Frontend Engineer, interactive web creator and player one" />
 </div>
 
----
+<br />
 
+<div align="center">
+  <a href="https://ahmed-atia-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedatia99">
+    <img src="https://img.shields.io/badge/CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:atyaa629@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_MESSAGE-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+## `PLAYER_PROFILE.init()`
+
+```ts
+const playerOne = {
+  name: "Ahmed Atia",
+  class: "Frontend Engineer",
+  base: "Egypt",
+  mainQuest: "Turn complex product requirements into simple experiences",
+  currentBuild: ["React", "Next.js", "TypeScript", "Product Thinking"],
+  sideQuest: ["Three.js", "WebGL", "Creative Coding", "Game-inspired UI"],
+  status: "Always shipping. Always leveling up.",
+};
+```
+
+I engineer production web products that balance **clean architecture, sharp visual craft, and real business needs**. My experience covers SaaS dashboards, complex workflows, server state, authentication, caching, performance, accessibility, and bilingual **Arabic RTL / English LTR** interfaces.
+
+> My favorite frontend work feels less like filling a screen—and more like building a world people instantly understand.
+
+## ⚔️ Main quests
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://itashteeb.com/en">
+        <img src="./assets/itashteeb-project.svg" width="100%" alt="Itashteeb production platform" />
+      </a>
+      <br /><br />
+      <strong>Itashteeb Platform &amp; Dashboard</strong>
+      <p>Production construction and finishing ecosystem covering CRM, subscriptions, invoices, add-ons, permissions, inventory, property workflows, notifications, and bilingual product experiences.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>React Query</code> <code>i18n</code></p>
+      <a href="https://itashteeb.com/en"><strong>Explore Itashteeb ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ahmed-atia-nine.vercel.app/">
+        <img src="./assets/creative-lab.svg" width="100%" alt="Creative lab for 3D, game-inspired and interactive web experiences" />
+      </a>
+      <br /><br />
+      <strong>Creative Web Lab</strong>
+      <p>A growing playground for 3D scenes, game-inspired interfaces, cinematic motion, and interactive browser experiments—built without sacrificing usability or performance.</p>
+      <p><code>Three.js</code> <code>GSAP</code> <code>WebGL</code> <code>Framer Motion</code></p>
+      <a href="https://ahmed-atia-nine.vercel.app/"><strong>Enter the Lab ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Boss battles shipped
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏠 AmTalek</h3>
+      <p>Regional real-estate storefronts and dashboards with OAuth, SEO, caching, localization, package flows, and complex business modules.</p>
+      <a href="https://www.amtalek.com/">Visit product ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧭 Product Systems</h3>
+      <p>Reusable architectures for CRM, HR, accounting, reports, inventory, permissions, notifications, forms, and multi-step workflows.</p>
+      <a href="https://www.e-ramo.net/en">Visit E-Ramo ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌍 Bilingual UX</h3>
+      <p>Arabic-first RTL and English LTR interfaces designed as complete experiences—not translations added at the end.</p>
+      <a href="https://ahmed-atia-nine.vercel.app/">View my work ↗</a>
+    </td>
+  </tr>
+</table>
+
+## 🎒 Current loadout
+
+<div align="center">
+  <p><strong>CORE ENGINE</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  </p>
+  <p><strong>UI SYSTEMS &amp; STATE</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+    <img src="https://img.shields.io/badge/TanStack_Query-111827?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-111827?style=for-the-badge&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />
+    <img src="https://img.shields.io/badge/Zustand-111827?style=for-the-badge&logo=react&logoColor=F97316" alt="Zustand" />
+  </p>
+  <p><strong>CREATIVE MODE</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/GSAP-111827?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+    <img src="https://img.shields.io/badge/Framer_Motion-111827?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/WebGL-111827?style=for-the-badge&logo=webgl&logoColor=EF4444" alt="WebGL" />
+    <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  </p>
+  <p><strong>QUALITY CHECKPOINT</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Vitest-111827?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+    <img src="https://img.shields.io/badge/Testing_Library-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Testing Library" />
+    <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+    <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  </p>
+</div>
+
+## 📡 Player activity
+
+```text
+Architecture     ██████████████████░░  90%
+Product UI       ███████████████████░  95%
+Performance      █████████████████░░░  85%
+Creative Coding  ██████████████░░░░░░  Leveling up...
+```
+
+```diff
++ Building interfaces that feel fast before the metrics even load
++ Turning large business flows into calm, understandable journeys
++ Exploring the space between frontend engineering, 3D and game design
+```
+
+## 🛰️ Start a co-op mission
+
+I'm open to **frontend engineering opportunities**, ambitious product teams, and collaborations where strong engineering meets memorable product design.
+
+<div align="center">
+  <a href="https://ahmed-atia-nine.vercel.app/"><strong>PORTFOLIO</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/ahmedatia99"><strong>LINKEDIN</strong></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:atyaa629@gmail.com"><strong>EMAIL</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Ahmedatia99?tab=repositories"><strong>REPOSITORIES</strong></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed &amp; engineered by Ahmed Atia · Built like a product, not a badge wall.</sub>
+</div>
