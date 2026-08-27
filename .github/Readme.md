@@ -40,7 +40,7 @@ I engineer production web products that balance **clean architecture, sharp visu
   <tr>
     <td width="50%" valign="top">
       <a href="https://itashteeb.com/en">
-        <img src="./download(1).svg" width="100%" alt="Itashteeb production platform" />
+        <img src="./download (1).svg" width="100%" alt="Itashteeb production platform" />
       </a>
       <br /><br />
       <strong>Itashteeb Platform &amp; Dashboard</strong>
@@ -50,7 +50,7 @@ I engineer production web products that balance **clean architecture, sharp visu
     </td>
     <td width="50%" valign="top">
       <a href="https://ahmed-atia-nine.vercel.app/">
-        <img src="./download(2).svg" width="100%" alt="Creative lab for 3D, game-inspired and interactive web experiences" />
+        <img src="./download (2).svg" width="100%" alt="Creative lab for 3D, game-inspired and interactive web experiences" />
       </a>
       <br /><br />
       <strong>Creative Web Lab</strong>
