@@ -36,7 +36,7 @@ I engineer production web products that balance **clean architecture, sharp visu
 
 ## ⚔️ Main quests
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://itashteeb.com/en">
@@ -59,7 +59,7 @@ I engineer production web products that balance **clean architecture, sharp visu
       <a href="https://ahmed-atia-nine.vercel.app/"><strong>Enter the Lab ↗</strong></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 🏆 Boss battles shipped
 
