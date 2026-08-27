@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./download.svg" width="100%" alt="Ahmed Atia — Frontend Engineer, interactive web creator and player one" />
-</div>
+</div> -->
 
 <br />
 
@@ -33,10 +33,10 @@ const playerOne = {
 I engineer production web products that balance **clean architecture, sharp visual craft, and real business needs**. My experience covers SaaS dashboards, complex workflows, server state, authentication, caching, performance, accessibility, and bilingual **Arabic RTL / English LTR** interfaces.
 
 > My favorite frontend work feels less like filling a screen—and more like building a world people instantly understand.
-
+<!--
 ## ⚔️ Main quests
 
-<!-- <table>
+ <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://itashteeb.com/en">
